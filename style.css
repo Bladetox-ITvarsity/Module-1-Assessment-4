@@ -1,0 +1,28 @@
+table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+}
+th{
+    font-weight: 800;
+    color:black;
+    background-color: navajowhite;
+}    
+td{
+    color: snow;
+    background-color: black;
+    padding-top: 20;
+    padding-bottom: 20;
+    padding-right: 20;
+    padding-left: 20;
+}
+img{
+    height: 120;
+    object-fit: fill;
+}
+p{
+    font-style: italic;
+    font-family: sans-serif;
+}
